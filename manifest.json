@@ -3,11 +3,11 @@
     "description": "Fists Meet Fate",
     "developer":
     {
-        "name": "Bandai Namco"
+        "name": "Opera Software"
     },
     "icons":
     {
-        "512": "icon_512.png"
+        "512": "Tekken 8.png"
     },
     "manifest_version": 3,
     "mod":
@@ -81,7 +81,6 @@
                 "light":
                 {
                     "image": "TKN8 animated.webm",
-                    "first_frame": "wallpaper/first_frame.jpeg",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
                 }
